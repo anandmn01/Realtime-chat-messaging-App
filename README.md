@@ -1,16 +1,20 @@
-# Realtime-chat-messaging-App
-# Overview
-This repository contains the source code for a real-time chat messaging application. The application is designed to provide users with the ability to engage in instant messaging with one another, fostering seamless communication.
+# Welcome to MS Teams Clone!
 
-# Features
-Real-time Messaging: Utilizes WebSocket technology to enable real-time communication between users.
-User Authentication: Secure user authentication and authorization to ensure privacy and data integrity.
-Responsive UI: A user-friendly and responsive interface that adapts to different devices and screen sizes.
-Message History: Keeps track of chat history for users to reference previous conversations.
-Emoji Support: Allows users to express themselves using emojis in their messages.
-# Technologies Used
-Frontend: HTML, CSS, JavaScript, React.js (or your chosen frontend library/framework).
-WebSocket: Enables real-time bidirectional communication between clients and the server.
-Authentication: JSON Web Tokens (JWT) for secure authentication.
-Database: MongoDB (or your preferred database) for storing user data and chat history.
-API used:chat engine Api used for connection between clients.
+### [Example Website](https://chat-app-jsmastery.netlify.app)
+
+![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
+
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+
+## Introduction
+
+This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
+
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
+
+Its a good example of learning react and creating something production ready!
+
+## Want to build this too?
+
+Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
